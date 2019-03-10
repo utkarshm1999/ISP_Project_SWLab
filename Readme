@@ -2,5 +2,26 @@ The Software built on Visual Basic is aimed to act as an interface for managing 
 
 The services we have catered to include broadband, TV, ISD/STD code search and Data Plans for Mobile Networks.
 
-##Overview:
+Overview:
 
+The S/W has 2 intefaces
+
+-- First One ( we call it User Panel ) for the general users who are using one or more service provided by the ISP
+-- Second One ( named the Admin Panel ) for the Admins of the ISP who can review the activity of the first kind users
+
+Points to Note:
+
+1. There is a single login page for both interfaces. To login as Admin :
+  Mobile Number : Admin
+  Password : GN13
+  
+2. We have used MS Access databases
+3. Documentations:
+  Technical
+   Database : https://sway.office.com/AePRl8AU8KrIH4fI?ref=Link
+   User Panel : https://sway.office.com/Vpr7g5qTjsh51JAm?fbclid=IwAR1EBTjIqptcKWFqrpdtr-dKmhqzsMTan8y_hJayaiTVXkljtBJd6X05N2U
+   Admin panel : https://sway.office.com/MZuy3ah7JyITTPqv
+   
+   User Guides:
+   User Panel : https://sway.office.com/CtpALw38ywU3lDkD
+   Admin Panel : https://sway.office.com/1IpTDnvBfyBG1xUj
